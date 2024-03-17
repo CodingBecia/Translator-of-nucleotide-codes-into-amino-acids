@@ -1,0 +1,12 @@
+>przyklad; id=23; name=; parent=; meaningless data;
+TACTTTTGAGGTCTTTCTATT
+>przyklad; id=20; name=; parent=; meaningless data;
+TCACGTTGATGCCGGTCC
+>przyklad; id=29; name=;parent=; meaningless data;
+TACATCGGGGGCCTA
+>przyklad;id=45; name=; parent=; meaningless data;
+ATTATCACTCCCCCT
+>przyklad;id=12; name=; parent=; meaningless data;
+TACCGTGGACTTCTCAGTAGCCTACTGGCCTACTAATAGTACCAACAGCTTAATAAATTTTCAGGAATC
+>przyklad; id=10; name=; parent=; meaningless data;
+TACTCCCCAGTAATACGTTGAACATCCCTCGGTTCACATTAATTTTACCAATTACCGGTCATTCTGAGCAGCAGA
